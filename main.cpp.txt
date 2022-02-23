@@ -1,0 +1,7 @@
+#include<stodio.h>
+
+main()
+{
+
+printf(" Hello \n");
+}
